@@ -15,13 +15,9 @@ public class Utility {
 	public void m2() {
 		System.out.println("m2");
 	}
-	
-<<<<<<< HEAD
+
 	public void m4() {
 		System.out.println("m4");
-=======
-	public void m3() {
-		
->>>>>>> stash
-	}
+
+}
 }
